@@ -1,0 +1,17 @@
+.square {
+  width: 60px;
+  height: 60px;
+  border: 1px solid #ccc;
+  text-align: center;
+  line-height: 50px;
+  font-weight: bold;
+  font-size: 16px;
+}
+.board-row {
+  display: flex;
+}
+.board-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
